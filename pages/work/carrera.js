@@ -31,7 +31,7 @@ export default function Carrera() {
       {/* Main Content */}
       <div className="container mx-auto mt-10 space-y-12">
       <div className="text-center">
-          <h1 className="text-4xl font-bold mb-4">Hello, I'm Pedro Pineda</h1>
+          <h1 className="text-4xl font-bold mb-4">Hello, I&apos;m Pedro Pineda</h1>
           <p className="text-lg opacity-80">
             I design and develop apps and websites that help early-stage companies launch impactful solutions quickly.
           </p>
