@@ -32,7 +32,7 @@
         {
             "id": "5",
             "title": "Email",
-            "link": "ppinedacordova@gmail.com"
+            "link": "https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtDnFLcdRXTHMbwcjZXTXCFfmZSWHNXskBjNsqTMkJHXPhdlBJgmlxDCFvVszhQRCkQrsfqg"
         }
     ],
     "projects": [
@@ -62,20 +62,6 @@
             "title": "Education",
             "description": "LEARNING UNLEASHES POTENTIAL",
             "imageSrc": "/images/20250409_0047_Profesional en Tecnología Sostenible_remix_01jrche5mcfvjrd8428kq424xk.png",
-            "url": "http://chetanverma.com/"
-        },
-        {
-            "id": "5",
-            "title": "Project Five",
-            "description": "Development",
-            "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-            "url": "http://chetanverma.com/"
-        },
-        {
-            "id": "6",
-            "title": "Project Six",
-            "description": "Design & Development",
-            "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
             "url": "http://chetanverma.com/"
         }
     ],
