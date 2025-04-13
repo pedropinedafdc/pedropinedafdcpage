@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   output: 'export', // para soportar exportación estática
   images: {
-    unoptimized: true, // desactiva optimización para export estático
+    unoptimized: true, 
     remotePatterns: [
       {
         protocol: 'https',
