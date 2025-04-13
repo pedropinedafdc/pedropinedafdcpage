@@ -23,7 +23,7 @@ jobs:
       - name: 📦 Install dependencies
         run: npm ci
 
-      - name: ⚙️ Build Next.js site
+      - name: ⚙️ Build site
         run: npm run build
 
       - name: 🚀 Deploy to GitHub Pages
